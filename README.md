@@ -1,4 +1,4 @@
-I come from the blog of [ruanyifeng](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
+I come from the blog of [@ruanyifeng](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
 > https://github.com/joewalnes/websocketd/blob/master/examples/bash/chat.sh
 
 There is a tiny script base on linux that use five line code complete a chat room,but the process has two step if you want run the script on linux.
