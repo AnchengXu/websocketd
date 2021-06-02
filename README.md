@@ -1,3 +1,19 @@
+I come from the blog of ruanyifeng (http://www.ruanyifeng.com/blog/2017/05/websocket.html)
+https://github.com/joewalnes/websocketd/blob/master/examples/bash/chat.sh
+There is a tiny script base on linux that use five line code complete a chat room,but the process has two step if you want run the script on linux.
+First,we should run the script on linux with the command that 
+> websocketd --devconsole --port 22111 ./fiveLineCodeWillCompleteAChatRoom.sh
+Second,we open the websocketd online client on your chrome browse , and enter the url that 
+> http://www.websocket-test.com/
+to the websocketd onlien client.
+Enter the url that
+> ws://anchengxu.fun:22111 
+and click "连接" after click "断开".
+Because the chat room need two people at lease in the room, so we should open two tab on chrome browse and two tab both open websocketd online client and connect to 
+>  ws://anchengxu.fun:22111 
+We will start a interest chat when two tab both connect to websocketd online client , the information text area of right screen will show the content of the chat process.
+
+
 websocketd
 ==========
 
