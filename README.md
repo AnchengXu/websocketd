@@ -18,7 +18,7 @@ Because the chat room need two people at lease in the room, so we should open tw
 
 We will start a interest chat when two tab both connect to websocketd online client , the information text area of right screen will show the content of the chat process.
 
--[@AnchengXu](https://github.com/AnchengXu)
+[@AnchengXu](https://github.com/AnchengXu)
 
 websocketd
 ==========
